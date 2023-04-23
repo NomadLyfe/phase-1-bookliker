@@ -37,10 +37,6 @@
         {
           "id": 6,
           "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
         }
       ]
     },
@@ -53,12 +49,12 @@
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 10,
+          "username": "macejkovic"
         },
         {
-          "id": 9,
-          "username": "alex"
+          "id": 8,
+          "username": "maverick"
         }
       ]
     },
@@ -110,12 +106,12 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
+          "id": 3,
+          "username": "marvin"
         },
         {
-          "id": 4,
-          "username": "ann"
+          "id": 5,
+          "username": "feels-like-summer"
         }
       ]
     },
@@ -146,16 +142,16 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "alex"
+          "id": 8,
+          "username": "maverick"
         },
         {
-          "id": 3,
-          "username": "marvin"
+          "id": 6,
+          "username": "steuber"
         },
         {
-          "id": 2,
-          "username": "auer"
+          "id": 5,
+          "username": "feels-like-summer"
         }
       ]
     },
